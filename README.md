@@ -1,1 +1,3 @@
-# kAiZer
+For this project, we focused on the lot-sizing problem involving multiple items with varying weight classifications and purchase prices. The main objective is to determine the optimal order quantity for each product, thereby minimizing the total cost associated with inventory.
+In this study, our team used data from ### mini-supermarket, located in Chau Thanh district, Tien Giang province for 12 periods (from August 2023 to July 2024).
+Considering the details presented regarding the case under study and the distinctive attributes of the algorithms, two optimal algorithms were selected for the resolution of the presented problem, namely, the MILP and the Wagner–Whitin Dynamic approach.
