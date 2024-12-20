@@ -9,7 +9,7 @@ purchase_cost = pd.read_excel("Input_PurchaseCost.xlsx", header=None).values.ast
 weights = pd.read_excel("Input_Weightperbox.xlsx", header=None).values.astype(float)
 
 # Define holding cost rate
-holding_cost_rate = 0.0021
+holding_cost_rate = 0.0021 #VND
 num_products, num_months = demand.shape
 M = demand.max() * 10  # Large constant for the binary constraint
 
